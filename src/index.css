@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+.skill-pill {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #f1f3f5;
+  color: #111827;
+  font-size: 14px;
+  font-weight: 500;
+  border-radius: 9999px; /* fully rounded pill */
+  border: 1px solid #e5e7eb;
+  cursor: default;
+}
