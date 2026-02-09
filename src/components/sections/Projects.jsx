@@ -33,7 +33,7 @@ const Projects = () => {
                     </div>
 
                     <div className='flex items-center gap-4'>
-                        <a href='' className='inline-flex items-center gap-2 font-semibold hover:underline' target='_blank'></a>
+                        <a href='https://automated-data-analysis-and-chat-bot.streamlit.app/' className='inline-flex items-center gap-2 font-semibold hover:underline' target='_blank'> Get Demo</a>
                     </div>
                 </div>
             </div>
